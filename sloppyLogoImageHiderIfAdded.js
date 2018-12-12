@@ -10,3 +10,5 @@ function hideImage() {
 window.setInterval(function(){
   hideImage();
 }, 250);
+
+// this thing is nasty
