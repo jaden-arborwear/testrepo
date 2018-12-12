@@ -11,7 +11,7 @@ window.setInterval(function(){
   hideImage();
 }, 250);
 
-/* this thing above is nasty, would smomething like this work instead?
+/* this thing above is nasty, would something like this work instead?
 
 (function(doc,found) {
   window.addEventListener('DOMSubtreeModified', function() {
